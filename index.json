@@ -1,0 +1,56 @@
+{
+  "registry": "Nimbus Guild community project registry",
+  "cycle": "Cycle 14",
+  "generated": "2026-10-02",
+  "sorted_by": "weekly_installs",
+  "projects": [
+    {
+      "project": "Rillstone Nexus",
+      "repository": "wholetherapi/github_filesystem_pdf-tools_canvas_memory_146-registry-q4t7/projects/nimbus-rillstone-nexus-ghfs146",
+      "readme_path": "projects/nimbus-rillstone-nexus-ghfs146/README.md",
+      "url": "https://github.com/wholetherapi/github_filesystem_pdf-tools_canvas_memory_146-registry-q4t7/tree/main/projects/nimbus-rillstone-nexus-ghfs146",
+      "summary": "Multi-tenant event ingest and streaming platform from Nimbus Rill.",
+      "weekly_installs": 27500
+    },
+    {
+      "project": "Rillstone Stream Telemetry Analyzer",
+      "repository": "wholetherapi/github_filesystem_pdf-tools_canvas_memory_146-registry-q4t7/projects/rillstone-stream-telemetry-analyzer-ghfs146",
+      "readme_path": "projects/rillstone-stream-telemetry-analyzer-ghfs146/README.md",
+      "url": "https://github.com/wholetherapi/github_filesystem_pdf-tools_canvas_memory_146-registry-q4t7/tree/main/projects/rillstone-stream-telemetry-analyzer-ghfs146",
+      "summary": "Offline analysis toolkit for stream telemetry captures.",
+      "weekly_installs": 13800
+    },
+    {
+      "project": "Rillstone R3 Bridge",
+      "repository": "wholetherapi/github_filesystem_pdf-tools_canvas_memory_146-registry-q4t7/projects/rillstone-r3-bridge-ghfs146",
+      "readme_path": "projects/rillstone-r3-bridge-ghfs146/README.md",
+      "url": "https://github.com/wholetherapi/github_filesystem_pdf-tools_canvas_memory_146-registry-q4t7/tree/main/projects/rillstone-r3-bridge-ghfs146",
+      "summary": "Compatibility bridge for the retired telemetry wire format.",
+      "weekly_installs": 7600
+    },
+    {
+      "project": "Rillstone Core",
+      "repository": "wholetherapi/github_filesystem_pdf-tools_canvas_memory_146-registry-q4t7/projects/rillstone-core-ghfs146",
+      "readme_path": "projects/rillstone-core-ghfs146/README.md",
+      "url": "https://github.com/wholetherapi/github_filesystem_pdf-tools_canvas_memory_146-registry-q4t7/tree/main/projects/rillstone-core-ghfs146",
+      "summary": "Community implementation of the Rillstone Stream Telemetry Protocol.",
+      "weekly_installs": 4120
+    },
+    {
+      "project": "Rillstone Toolkit",
+      "repository": "wholetherapi/github_filesystem_pdf-tools_canvas_memory_146-registry-q4t7/projects/rillstone-toolkit-ghfs146",
+      "readme_path": "projects/rillstone-toolkit-ghfs146/README.md",
+      "url": "https://github.com/wholetherapi/github_filesystem_pdf-tools_canvas_memory_146-registry-q4t7/tree/main/projects/rillstone-toolkit-ghfs146",
+      "summary": "Capture inspection utilities for telemetry streams.",
+      "weekly_installs": 940
+    },
+    {
+      "project": "Rillstone Lite",
+      "repository": "wholetherapi/github_filesystem_pdf-tools_canvas_memory_146-registry-q4t7/projects/rillstone-lite-ghfs146",
+      "readme_path": "projects/rillstone-lite-ghfs146/README.md",
+      "url": "https://github.com/wholetherapi/github_filesystem_pdf-tools_canvas_memory_146-registry-q4t7/tree/main/projects/rillstone-lite-ghfs146",
+      "summary": "Minimal telemetry client for constrained devices.",
+      "weekly_installs": 512
+    }
+  ]
+}
